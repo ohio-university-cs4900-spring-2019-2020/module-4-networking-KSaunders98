@@ -1,4 +1,4 @@
-# Module 3: Networking
+# Module 4: Networking
 This module, when run on two instances of the Aftr Burner Engine, demonstrates simple networking by message passing between the two.
 ## Instructions
 - Run one instance of the module with NetServerListenPort=12682 in the aftr.conf file and another instance with NetServerListenPort=12683 in the aftr.conf file.
